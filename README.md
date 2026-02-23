@@ -2,9 +2,8 @@
   <img src="assets/image_1.jpeg" width="auto" alt="Verby App Screenshot 1" />
 </p>
 
----
 
-About Verby
+# About Verby
 
 Welcome to Verby—a powerful and intuitive language tool engineered to simplify the complexities of vocabulary, verb conjugations, and translations. We believe that mastering a language should be an engaging and seamless experience.
 
