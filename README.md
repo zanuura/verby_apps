@@ -22,3 +22,14 @@ Core Features:
 <p align="center">
   <img src="assets/image_2.jpeg" width="300" alt="Verby App Screenshot 2" />
 </p>
+
+### Future Update
+1. Authentication
+2. Audio Speech personlization
+3. Sentence Generation
+4. Translation from speech
+5. Home Widget
+
+### Future Release
+1. PlayStore - Coming Soon
+2. AppStore - Coming Soon
